@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou Marcelo 👋
 
-<!--
-**Marceloznnn/Marceloznnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack | Apaixonado por tecnologia e inovação
 
-Here are some ideas to get you started:
+## Sobre mim
+- 🌱 Aprendendo constantemente novas tecnologias.
+- 💻 Experiência com Frontend e Backend.
+- 🔧 PHP, React, Node.js, MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos
+- [Discursivamente](https://github.com/seu-usuario/discursivamente)
+- [Portfolio](https://github.com/seu-usuario/portfolio)
+
+## Contato
+[LinkedIn](https://www.linkedin.com/in/seu-linkedin/) | [Gmail](mailto:seuemail@gmail.com)
