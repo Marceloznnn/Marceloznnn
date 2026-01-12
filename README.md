@@ -44,20 +44,17 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/seu-usuario/discursivamente" target="_blank">
-        <img src="https://raw.githubusercontent.com/seu-usuario/discursivamente/main/imagem-projeto.png" width="150"/>
+      <a href="https://github.com/marceloznnn/discursivamente](https://github.com/Marceloznnn/discursivamente.0.1.git" target="_blank">
         <br><b>Discursivamente</b>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/seu-usuario/portfolio" target="_blank">
-        <img src="https://raw.githubusercontent.com/seu-usuario/portfolio/main/imagem-projeto.png" width="150"/>
         <br><b>Portfolio</b>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/seu-usuario/ecommerce" target="_blank">
-        <img src="https://raw.githubusercontent.com/seu-usuario/ecommerce/main/imagem-projeto.png" width="150"/>
         <br><b>E-commerce</b>
       </a>
     </td>
