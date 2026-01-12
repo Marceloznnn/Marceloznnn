@@ -44,7 +44,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/marceloznnn/discursivamente](https://github.com/Marceloznnn/discursivamente.0.1.git" target="_blank">
+      <a href="https://github.com/Marceloznnn/discursivamente.0.1.git" target="_blank">
         <br><b>Discursivamente</b>
       </a>
     </td>
