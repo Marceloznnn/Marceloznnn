@@ -1,90 +1,98 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/157076363?s=400&u=eaef29603061e1f8e0b83c7f14aafd769c996d7e&v=4" width="200" style="border-radius: 50%;" alt="Foto de perfil"/>
-  
+  <img 
+    src="https://avatars.githubusercontent.com/u/157076363?s=400&v=4" 
+    width="160" 
+    style="border-radius:50%" 
+    alt="João Marcelo"
+  />
+
   <h1>João Marcelo</h1>
-  <h3>Desenvolvedor Full Stack</h3>
+  <p><strong>Desenvolvedor Full Stack</strong></p>
 </div>
 
-<br>
+---
 
 ## Sobre
 
-Desenvolvedor Full Stack com experiência em aplicações web modernas, APIs escaláveis e interfaces performáticas. Atuo com foco em código limpo, arquitetura bem definida e soluções eficientes para negócios digitais.
+Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web modernas, APIs escaláveis e interfaces performáticas.  
+Atuo com foco em **código limpo**, **boa arquitetura** e **soluções eficientes para produtos digitais**.
 
-<br>
+---
 
 ## Tecnologias
 
-**Backend**
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=nodedotjs)
+![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+### Frontend
+![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=flat&logo=css3)
 
-**Frontend**
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker)
 
-**Banco de Dados**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-<br>
+---
 
 ## Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&langs_count=7&theme=dark"/>
+  <img 
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=Marceloznnn&show_icons=true&hide_title=true&theme=dark&count_private=true"
+  />
+  <img 
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marceloznnn&layout=compact&theme=dark"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USERNAME&theme=dark" alt="GitHub Streak"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Marceloznnn&theme=dark"
+    height="160"
+  />
 </div>
 
-<br>
+---
 
 ## Projetos em Destaque
 
-### 📁 [Nome do Projeto 1](link-do-repositorio)
-Sistema de gerenciamento completo com dashboard analytics e relatórios personalizados.  
-**Stack:** Node.js, React, PostgreSQL
+### 🔹 Sistema de Gestão
+Sistema completo com dashboard analítico e relatórios personalizados.  
+**Stack:** Node.js · React · PostgreSQL  
+🔗 Repositório: _(adicione o link)_
 
-### 📁 [Nome do Projeto 2](link-do-repositorio)
-API RESTful para e-commerce com sistema de pagamentos integrado.  
-**Stack:** PHP, MySQL, Docker
+### 🔹 API para E-commerce
+API RESTful com autenticação, pagamentos e gestão de pedidos.  
+**Stack:** PHP · MySQL · Docker  
+🔗 Repositório: _(adicione o link)_
 
-### 📁 [Nome do Projeto 3](link-do-repositorio)
-Aplicação web responsiva para controle de estoque e vendas.  
-**Stack:** Python, JavaScript, PostgreSQL
+### 🔹 Plataforma Web
+Aplicação responsiva para controle de estoque e vendas.  
+**Stack:** Python · JavaScript · PostgreSQL  
+🔗 Repositório: _(adicione o link)_
 
-<br>
+---
 
 ## Contato
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/SEU-INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://wa.me/5500000000000" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
+  <a href="https://linkedin.com/in/SEU-LINKEDIN">LinkedIn</a> •
+  <a href="https://instagram.com/SEU-INSTAGRAM">Instagram</a> •
+  <a href="https://wa.me/55SEUNUMERO">WhatsApp</a>
 </div>
 
-<br>
+---
 
 <div align="center">
-  <p>Aberto a oportunidades, freelances e projetos desafiadores.</p>
+  <sub>Aberto a oportunidades, freelances e projetos desafiadores.</sub>
 </div>
