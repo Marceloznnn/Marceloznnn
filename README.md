@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/SEU-USERNAME.png" width="200" style="border-radius: 50%;" alt="Foto de perfil"/>
+  <img src="[https://github.com/SEU-USERNAME.png](https://avatars.githubusercontent.com/u/157076363?s=400&u=eaef29603061e1f8e0b83c7f14aafd769c996d7e&v=4)" width="200" style="border-radius: 50%;" alt="Foto de perfil"/>
   
   <h1>João Marcelo</h1>
   <h3>Desenvolvedor Full Stack</h3>
