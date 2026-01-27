@@ -59,8 +59,12 @@ Tenho facilidade em compreender regras de negócio e transformar necessidades em
 
 <div align="center">
   <img 
+    src="https://github-readme-streak-stats.herokuapp.com
+      /?user=Marceloznnn
+      &theme=dark
+      &hide_border=true
+      &date_format=j%20M%5B%20Y%5D"
     height="170"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Marceloznnn&theme=dark"
     alt="GitHub Streak"
   />
 </div>
