@@ -56,16 +56,17 @@ Tenho facilidade em compreender regras de negócio e transformar necessidades em
 ---
 
 ## 📊 Atividade no GitHub
-
+ 
 <div align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com
-      /?user=Marceloznnn
+    src="https://github-readme-stats.vercel.app/api
+      ?username=Marceloznnn
+      &show_icons=true
+      &hide_title=true
+      &hide=stars,prs,issues
       &theme=dark
-      &hide_border=true
-      &date_format=j%20M%5B%20Y%5D"
+      &include_all_commits=true"
     height="170"
-    alt="GitHub Streak"
   />
 </div>
 
